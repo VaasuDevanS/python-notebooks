@@ -1,6 +1,5 @@
 # Python Notebooks
 
-* 30 Day Map Challenge - https://30daymapchallenge.com/
 * Advent of Code - https://adventofcode.com/
 * DataLemur - https://datalemur.com/questions?category=Python
 * Kaggle - https://www.kaggle.com/
